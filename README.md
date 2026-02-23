@@ -9,7 +9,7 @@ Best Light Weight UserBot For Telegram
 - You Just Need to Fork This Repo and deploy it.
 - Just install requirements.txt and make the .env file and it's ready for deployment.
 
-[FORK THIS REPO](https://github.com/devil-shiva/userbot/fork)
+[FORK THIS REPO](https://github.com/MrTabahkar/SelfAlireza/fork)
   
 ## Requirements
 
@@ -28,7 +28,7 @@ Best Light Weight UserBot For Telegram
 - After Fork, clone this repository to you local machine using the following command
 
 ```bash
-    git cline https://github.com/shivamsaksham/DraculaUserbot.git
+    git cline https://github.com/MrTabahkar/SelfAlireza.git
 ```
 
 - Open the Cloned Folder and Create a new Virtual Environment.
@@ -85,10 +85,7 @@ python main.py
 
 - Provide clear message while making pull requests.
 
-- Join Our [Community](https://t.me/team_hacktwist)
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shivamsaksham.vercel.app/)
+- Join Our [Community](https://t.me/TFKORAT)
 
 
 
